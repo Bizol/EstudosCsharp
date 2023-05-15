@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSprojeto1\\ContaBancaria\\ContaBancaria.csproj": {}
+    "C:\\VSprojeto\\ContaBancaria\\ContaBancaria.csproj": {}
   },
   "projects": {
-    "C:\\VSprojeto1\\ContaBancaria\\ContaBancaria.csproj": {
+    "C:\\VSprojeto\\ContaBancaria\\ContaBancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSprojeto1\\ContaBancaria\\ContaBancaria.csproj",
+        "projectUniqueName": "C:\\VSprojeto\\ContaBancaria\\ContaBancaria.csproj",
         "projectName": "ContaBancaria",
-        "projectPath": "C:\\VSprojeto1\\ContaBancaria\\ContaBancaria.csproj",
+        "projectPath": "C:\\VSprojeto\\ContaBancaria\\ContaBancaria.csproj",
         "packagesPath": "C:\\Users\\bernardo\\.nuget\\packages\\",
-        "outputPath": "C:\\VSprojeto1\\ContaBancaria\\obj\\",
+        "outputPath": "C:\\VSprojeto\\ContaBancaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bernardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

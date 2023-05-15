@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gZG5Zg/Ig/XIsWteCgbD6plA+gt4ggQA556gfr3yb1rnnrEI2P4tZvzKE3aVmzsiOnymEm4cdR7SxAj3Q5sNKQ==",
+  "dgSpecHash": "UwvGeLJuK3VXeEC/tgm5My1+OPIO18BjRQSR09pVC/OU0X9v7lTme56kHLwLQMM/UDalpP3BbI3tMfN+G6nanA==",
   "success": true,
-  "projectFilePath": "C:\\VSprojeto1\\ContaBancaria\\ContaBancaria.csproj",
+  "projectFilePath": "C:\\VSprojeto\\ContaBancaria\\ContaBancaria.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

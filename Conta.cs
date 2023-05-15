@@ -34,6 +34,8 @@ namespace ContaBancaria {
                 + Nome 
                 + ", Saldo: $" 
                 + Saldo.ToString("f2", CultureInfo.InvariantCulture);
+
+
         }       
     }
 }
